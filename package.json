@@ -25,7 +25,7 @@
     "vue-template-compiler": "^2.7.10",
     "@tawk.to/tawk-messenger-vue-2": "^1.0.3",
     "axios": "^0.21.1",
-    "chart.js": "^2.9.4",
+    "chart.js": "^4.4.2",
     "hchs-vue-charts": "^1.2.8",
     "laravel-vue-pagination": "^4.1.1",
     "node-fetch": "^2.6.1",
