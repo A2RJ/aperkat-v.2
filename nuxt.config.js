@@ -3,7 +3,7 @@ const url = isDev ? "http://127.0.0.1:8000" : "https://aperkat.uts.ac.id/api";
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
