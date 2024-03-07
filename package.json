@@ -28,7 +28,7 @@
     "chart.js": "^2.9.4",
     "hchs-vue-charts": "^1.2.8",
     "laravel-vue-pagination": "^4.1.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.2",
     "numeral": "^2.0.6",
     "nuxt-apache-config": "^0.1.4",
     "vue-chartjs": "^3.5.1",
